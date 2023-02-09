@@ -1,7 +1,7 @@
 {
   "name": "winXP",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": "ShizukuIchi <shizukuichi@gmail.com>",
   "homepage": "https://w3technic.com",
   "dependencies": {
